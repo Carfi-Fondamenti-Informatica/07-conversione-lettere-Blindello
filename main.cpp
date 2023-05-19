@@ -1,5 +1,5 @@
 #include <iostream>
-#inlcude "Lib.h"
+#inlcude "Libreria.h"
 
 int main(){
   char n;
