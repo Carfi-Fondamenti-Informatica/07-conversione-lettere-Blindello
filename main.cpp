@@ -1,5 +1,6 @@
 #include <iostream>
 #inlcude <Libreria.h>
+using namespace std;
 
 int main(){
   char n;
