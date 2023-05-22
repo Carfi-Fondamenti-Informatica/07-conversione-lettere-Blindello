@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Libreria.h"
+
 using namespace std;
 
 int main(){
@@ -9,7 +10,7 @@ int main(){
   x=funzione1(n);
   if(x==0) {
    cout<<"errore"<<endl;
-  }else 
+  }else
     cout<<x<<endl;
     return 0;
 }
